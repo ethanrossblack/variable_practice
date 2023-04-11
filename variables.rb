@@ -17,3 +17,8 @@ pen_paper = true
 first_name = "E-Man"
 last_name = "Absence of Light"
 school = "Alan"
+
+puts first_name
+puts last_name
+puts change
+puts temperature
