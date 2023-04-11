@@ -13,3 +13,7 @@ change = 1.24
 typing = true
 cursive = false
 pen_paper = true
+
+first_name = "E-Man"
+last_name = "Absence of Light"
+school = "Alan"
